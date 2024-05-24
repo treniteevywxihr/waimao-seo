@@ -43,3 +43,5 @@
 
 
 标签：ChatGPT中文版, 最优网址, ChatGPT国内镜像, 免费ChatGPT服务, 稳定高效, ChatGPT镜像站汇总, AI, GPT4, GPT3.5
+
+[ChatGPT官网新模型GPT4o国内免费使用教程](https://github.com/tu790188/GPT4o-CN)
